@@ -11,12 +11,12 @@ The last $m$ lines describe the relationship network. Line $i$ starts with a num
 ## Example:
 
 ```
-4 4
+4 4               //4 items and 4 agents
+0.2 0.2 0.2 0.4   //utility function
 0.2 0.2 0.2 0.4
 0.2 0.2 0.2 0.4
 0.2 0.2 0.2 0.4
-0.2 0.2 0.2 0.4
-1 1
+1 1               //F_0 has one neighbor, F_1, meaning that F_0->F_1
 1 2
 1 0
 1 0
