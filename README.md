@@ -10,6 +10,7 @@ The last $m$ lines describe the relationship network. Line $i$ starts with a num
 
 ## Example:
 
+```
 4 4
 0.2 0.2 0.2 0.4
 0.2 0.2 0.2 0.4
@@ -19,3 +20,4 @@ The last $m$ lines describe the relationship network. Line $i$ starts with a num
 1 2
 1 0
 1 0
+```
